@@ -1,4 +1,4 @@
-# demo_ev_theme
+# VoltAura
 
 A new Flutter project.
 
